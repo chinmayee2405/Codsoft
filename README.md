@@ -48,7 +48,7 @@ The winner is decided based on the standard game rules, and the project reinforc
 
 ## 📫 Contact  
 If you'd like to connect or discuss these projects:  
-- 📧 **Email:**g.chinmayeegoud@gmail.com
+- 📧 **Email:** g.chinmayeegoud@gmail.com
 
 ---
 
